@@ -1,0 +1,4 @@
+Although pre-compiled binaries are available from this repository, Bzl is
+currently closed-source.  The basic featureset of Bzl are available to anyone.
+The more advanced features including the User-Interface require a license for
+use.
