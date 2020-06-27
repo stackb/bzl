@@ -46,8 +46,17 @@ curl -fLSs https://get.bzl.io/install.ps1 | iex
 
 ## Documentation
 
-Browse the [online documentation](https://build.bzl.io/docs). The docs are also
-bundled with Bzl, so you can browse offline at <http://localhost/docs>.
+Browse the [online documentation](https://build.bzl.io/bzl/docs). The docs are
+also bundled with Bzl, so you can browse offline at <http://localhost/docs>.
+
+## Pronunciation
+
+`bzl` is pronounced like 'bezel', as in "_the bezel of a watch_". The name
+invokes it's function (a wrapper around bazel).
+
+> In the 1950s, watchmakers realized that an external bezel was the best way to
+> add functions to a watch without complicating the movement, and so the
+> external watch bezel was born.
 
 ## Contact
 
